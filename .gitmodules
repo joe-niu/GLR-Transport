@@ -1,0 +1,3 @@
+[submodule "glr-transport-app"]
+	path = glr-transport-app
+	url = https://github.com/sebastian-king/glr-transport-app.git

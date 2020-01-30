@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="glr.Views.ViewFreightBillsPage"
+             BackgroundColor="White" Padding="0, 30, 0, 0">
+    
+    <ScrollView>
+                
+        <StackLayout x:Name="x" Margin="20, 0" Spacing="15">
+            <StackLayout HorizontalOptions="Center" Margin="0, 40, 0, 20">
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="Freight Bill: "
+                       TextColor="Blue"
+                       FontSize="Large"
+                       FontAttributes="Bold"/>
+                <Label x:Name="FreightBillNumberLabel"
+                        Text="{Binding FreightBillNumber}"
+                       TextColor="Red"
+                       FontSize="Large"/>
+                </StackLayout>
+            </StackLayout>
+            
+            <BoxView HeightRequest="1" 
+                    BackgroundColor="Black" 
+                    HorizontalOptions="FillAndExpand" />
+
+            <StackLayout Orientation="Horizontal">
+                
+                <Label x:Name="CustomerLabel"
+                       Text="Customer: " 
+                       FontAttributes="Bold"/>
+                <Label Text="{Binding Customer}"/>
+
+            </StackLayout>
+            
+            <StackLayout Orientation="Horizontal">
+                <Label Text="To: " FontAttributes="Bold"/>
+                    <Label x:Name="ToLocationLabel"
+                           Text="{Binding ToLocation}"
+                           HorizontalOptions="Center"
+                           TextColor="Blue"/>
+                        <Label.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="ToLocationLabelTapped"/>
+                        </Label.GestureRecognizers>
+            </StackLayout>
+            
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Freight Bill #: " FontAttributes="Bold"/>
+                <Label x:Name="FreighBillNumberLabel2"
+                       Text="{Binding FreightBillNumber}"
+                       HorizontalOptions="Center"/>
+            </StackLayout>
+            
+            <StackLayout Orientation="Horizontal">
+                <Label Text="PO#: " FontAttributes="Bold"/>
+                <Label x:Name="PoNumberLabel"
+                       Text="{Binding PoNumber}"
+                       HorizontalOptions="Center"/>
+            </StackLayout>
+            
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Truck: " FontAttributes="Bold"/>
+                <Label x:Name="TruckNumberLabel"
+                       Text="{Binding TruckNumber}"
+                       HorizontalOptions="Center"/>
+            </StackLayout>
+            
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Phone: " FontAttributes="Bold"/>
+                <Label x:Name="PhoneNumberLabel" Text="{Binding PhoneNumber}"
+                       TextColor="Blue"
+                       HorizontalOptions="Center"/>
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="OnPhoneNumberClicked"/>
+                </Label.GestureRecognizers>
+
+            </StackLayout>
+            
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Driver: " FontAttributes="Bold"/>
+                <Label x:Name="DriverLabel"
+                       Text="{Binding Driver}"
+                       HorizontalOptions="Center"/>
+            </StackLayout>
+            
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Email: " FontAttributes="Bold"/>
+                <Label x:Name="EmailAddressLabel"
+                       Text="{Binding EmailAddress}"
+                       TextColor="Blue"
+                       HorizontalOptions="Center"/>
+            </StackLayout>
+            
+            <Button Text="Edit" 
+                    Margin="80, 20, 80, 0"
+                    BackgroundColor="White"
+                    TextColor="Black"
+                    BorderRadius="20"
+                    BorderColor="Black"
+                    BorderWidth="1"
+                    Clicked="OnEditButtonClicked"/>
+
+            <Button x:Name="StatusButton"
+                Margin="10"
+                BorderRadius="20"
+                Padding="4"
+                Clicked="OnStatusButtonClicked"/>
+        </StackLayout>
+
+    </ScrollView>
+    
+</ContentPage>
+
+

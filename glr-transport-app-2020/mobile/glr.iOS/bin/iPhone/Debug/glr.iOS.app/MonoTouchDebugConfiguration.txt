@@ -1,0 +1,10 @@
+IP: 192.168.1.69
+IP: fe80::be:42a6:214a:6fbb
+IP: 2600:1700:fce0:e660:14e5:934d:f3d3:a6d4
+IP: 2600:1700:fce0:e660:910f:22da:54f8:ddc1
+IP: fe80::c84b:94ff:fea7:d21b
+IP: fe80::837e:ffcc:34f1:dc7
+IP: fe80::b034:499e:5f63:a55b
+IP: fe80::72f8:4c22:83b2:33b0
+IP: fe80::eb35:2d78:6af:f768
+Port: 10000

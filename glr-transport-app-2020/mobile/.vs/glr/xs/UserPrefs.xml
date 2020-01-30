@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{C522D1CB-24E2-47F1-89E7-D4FB368832CB}|Default">
+  <MonoDevelop.Ide.ItemProperties.glr.Android PreferredExecutionTarget="Android.my_device" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="glr/Views/LoginPage.xaml.cs">
+    <Files>
+      <File FileName="glr/Views/LoginPage.xaml.cs" Line="37" Column="68" />
+      <File FileName="glr/Views/LoginPage.xaml" />
+      <File FileName="glr/App.xaml.cs" Line="63" Column="50" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="glr" expanded="True">
+            <Node name="glr" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="EditEmployeePage.xaml" expanded="True" />
+                <Node name="HomePage.xaml" expanded="True" />
+                <Node name="LoginPage.xaml" expanded="True">
+                  <Node name="LoginPage.xaml.cs" selected="True" />
+                </Node>
+                <Node name="RegularEmployeeHomePage.xaml" expanded="True" />
+                <Node name="ViewEmployeeInfoPage.xaml" expanded="True" />
+                <Node name="ViewEmployeeWsPage.xaml" expanded="True" />
+                <Node name="ViewFreightBillsPage.xaml" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+            <Node name="glr.iOS" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.glr.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.FA83AF14-AA5B-4E85-BBFF-B55E0740AAB9" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -4,32 +4,41 @@
              x:Class="glr.Views.LoginPage">
              
     <StackLayout BackgroundColor="#1E1E24">
-        
-        <Label Text="GLR TRANSPORT"
+
+        <!-- Title -->
+        <Label Text="GLR Transport, Inc."
                TextColor="white"
-               FontSize="40"
+               FontSize="45"
                HorizontalTextAlignment="center"
-               Margin="0, 180, 0, 0"/>
-        
+               Margin="0, 140, 0, 0"
+         />
+        <!-- Welcome prompt -->
+        <Label Text="Welcome to the GLR Transport, Inc. management interface. Enter your registered email and password to get started."
+               TextColor="white"
+               FontSize="22"
+               HorizontalTextAlignment="center"
+               Margin="0, 30, 0, 0"
+         />
+        <!-- Entry Boxes for email and password -->
         <Entry x:Name="emailEntry"
                Placeholder="Email"
-               Margin="80, 50, 80, 0"
-               BackgroundColor="White"/>
-        
-        
+               Margin="80, 40, 80, 0"
+               BackgroundColor="White"
+         />
         <Entry x:Name="passwordEntry" 
                Placeholder="Password"
-               Margin="80, 0, 80, 0"
+               Margin="80, 10, 80, 0"
                BackgroundColor="white"
-               IsPassword="true"/>
-        
-        
+               IsPassword="true"
+         />
+        <!-- Login button -->
         <Button Text="Login"
                 BackgroundColor="#FEDC97"
                 TextColor="#1E1E24"
-                Margin="140, 10, 140, 0"
+                Margin="140, 30, 140, 0"
                 BorderRadius="20"
-                Clicked="LoginButtonClicked"/>
+                Clicked="LoginButtonClicked"
+         />
         
     </StackLayout>    
     

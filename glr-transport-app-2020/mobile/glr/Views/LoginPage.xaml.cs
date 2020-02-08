@@ -22,7 +22,9 @@ namespace glr.Views
             };
 
             var listOfUsers = await App.Database.GetUsersAsync();
-
+/*
+            // omega oof, they hardcoded the log in??
+            This is where it was at first when it gave the invalid login alert
             if(user.EmailAddress.Equals("Admin") && user.Password.Equals("pass"))
             {
                 User Admin = new User();
@@ -33,14 +35,20 @@ namespace glr.Views
                     BarTextColor = Color.White
                 });
             }
+*/
+            // log in tests start here
 
+            // They tried to test for empty input here, it doesn't work
+            // but it does throw the invalid user alert later.
             if (user.EmailAddress == null || user.Password == null)
-                await DisplayAlert("Empty Fields", "All fields must be filled out", "Ok");
-            else if(AreCredentialsCorrect(user, listOfUsers))
             {
-                foreach(var userFromList in listOfUsers)
+                await DisplayAlert("Empty Fields", "All fields must be filled out", "Ok");
+            }
+            else if (AreCredentialsCorrect(user, listOfUsers))
+            {
+                foreach (var userFromList in listOfUsers)
                 {
-                    if(userFromList.loggedIn == true)
+                    if (userFromList.loggedIn == true)
                     {
                         Application.Current.Properties["id"] = userFromList.ID;
 
@@ -82,9 +90,23 @@ namespace glr.Views
 
                             break;
                         }
-                    } 
+                    }
                 }
-            }else await DisplayAlert("Invalid user", "Reenter email or password", "Ok");
+            }
+            // *** I changed the if to else if, and moved the test login info here ***
+            // Same as their hardcoded login from before, moved to fix the alert.
+            else if (user.EmailAddress.Equals("Admin") && user.Password.Equals("pass"))
+            {
+                User Admin = new User();
+                await Navigation.PushModalAsync(new
+                                NavigationPage(new HomePage(Admin))
+                {
+                    BarBackgroundColor = Color.FromHex("#1E1E24"),
+                    BarTextColor = Color.White
+                });
+            }
+            // Show this alert when an invalid user/pass is entered:
+            else await DisplayAlert("Invalid user", "Reenter email or password", "Ok");
         }
 
         public bool AreCredentialsCorrect(User user, List<User> users)

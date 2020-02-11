@@ -22,11 +22,15 @@ namespace glr.Views
             };
 
             var listOfUsers = await App.Database.GetUsersAsync();
-/*
-            // omega oof, they hardcoded the log in??
-            This is where it was at first when it gave the invalid login alert
+
+            // This is for testing login for different user types
+            // value initialized is arbitrary, will be deleted on release
+            var TestVar = 5;
+            
             if(user.EmailAddress.Equals("Admin") && user.Password.Equals("pass"))
             {
+                // Set this to whataver user type you are testing 0/1/2
+                TestVar=2;
                 User Admin = new User();
                 await Navigation.PushModalAsync(new
                                 NavigationPage(new HomePage(Admin))
@@ -35,16 +39,15 @@ namespace glr.Views
                     BarTextColor = Color.White
                 });
             }
-*/
+            
             // log in tests start here
 
-            // They tried to test for empty input here, it doesn't work
-            // but it does throw the invalid user alert later.
+            
             if (user.EmailAddress == null || user.Password == null)
             {
                 await DisplayAlert("Empty Fields", "All fields must be filled out", "Ok");
             }
-            else if (AreCredentialsCorrect(user, listOfUsers))
+            else if ((AreCredentialsCorrect(user, listOfUsers))||(TestVar != 5))
             {
                 foreach (var userFromList in listOfUsers)
                 {
@@ -52,7 +55,7 @@ namespace glr.Views
                     {
                         Application.Current.Properties["id"] = userFromList.ID;
 
-                        if (userFromList.TypeOfEmployee == 0)
+                        if ((userFromList.TypeOfEmployee == 0)||(TestVar == 0))
                         {
                             Console.WriteLine("manager");
                             await Navigation.PushModalAsync(new
@@ -65,7 +68,7 @@ namespace glr.Views
                             break;
                         }
 
-                        if (userFromList.TypeOfEmployee == 1)
+                        if ((userFromList.TypeOfEmployee == 1)|| (TestVar == 1))
                         {
                             Console.WriteLine("Driver");
                             await Navigation.PushModalAsync(new
@@ -78,7 +81,7 @@ namespace glr.Views
                             break;
                         }
 
-                        if (userFromList.TypeOfEmployee == 2)
+                        if ((userFromList.TypeOfEmployee == 2)||(TestVar == 2))
                         {
                             Console.WriteLine("Employee");
                             await Navigation.PushModalAsync(new
@@ -93,18 +96,7 @@ namespace glr.Views
                     }
                 }
             }
-            // *** I changed the if to else if, and moved the test login info here ***
-            // Same as their hardcoded login from before, moved to fix the alert.
-            else if (user.EmailAddress.Equals("Admin") && user.Password.Equals("pass"))
-            {
-                User Admin = new User();
-                await Navigation.PushModalAsync(new
-                                NavigationPage(new HomePage(Admin))
-                {
-                    BarBackgroundColor = Color.FromHex("#1E1E24"),
-                    BarTextColor = Color.White
-                });
-            }
+            
             // Show this alert when an invalid user/pass is entered:
             else await DisplayAlert("Invalid user", "Reenter email or password", "Ok");
         }
@@ -115,8 +107,11 @@ namespace glr.Views
             {
                 Console.WriteLine(u.EmailAddress);
                 Console.WriteLine(u.Password);
+                // NOTE: The previous group seems to have made username and
+                // password lower case only
                 if (u.EmailAddress.ToLower().Equals(user.EmailAddress.ToLower())
                     && u.Password.ToLower().Equals(user.Password.ToLower()))
+                    // They changed both passwords to lower case above
                 {
                     u.loggedIn = true;
                     App.Database.SaveUserAsync(u);

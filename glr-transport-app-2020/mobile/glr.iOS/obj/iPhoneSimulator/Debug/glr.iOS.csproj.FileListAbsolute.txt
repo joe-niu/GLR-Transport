@@ -395,3 +395,12 @@
 /Users/brendannyambati/Desktop/capstone/mobile/glr.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.2/optimized/user.png
 /Users/brendannyambati/Desktop/capstone/mobile/glr.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.2/optimized/smalluser.png
 /Users/brendannyambati/Desktop/capstone/mobile/glr.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.2/optimized/
+C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.iOS\obj\iPhoneSimulator\Debug\glr.iOS.csprojAssemblyReference.cache
+C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.iOS\obj\iPhoneSimulator\Debug\glr.iOS.exe
+C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.iOS\obj\iPhoneSimulator\Debug\glr.iOS.pdb

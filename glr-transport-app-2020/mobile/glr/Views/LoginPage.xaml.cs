@@ -30,7 +30,7 @@ namespace glr.Views
             if(user.EmailAddress.Equals("Admin") && user.Password.Equals("pass"))
             {
                 // Set this to whataver user type you are testing 0/1/2
-                TestVar=2;
+                TestVar=0;
                 User Admin = new User();
                 await Navigation.PushModalAsync(new
                                 NavigationPage(new HomePage(Admin))

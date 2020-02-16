@@ -73,3 +73,21 @@
 /Users/brendannyambati/Desktop/capstone/mobile/glr/obj/Debug/netstandard2.0/glr.dll
 /Users/brendannyambati/Desktop/capstone/mobile/glr/obj/Debug/netstandard2.0/glr.pdb
 /Users/brendannyambati/Desktop/capstone/mobile/glr/obj/Debug/netstandard2.0/Views/EditEmployeePage.xaml.g.cs
+C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr\bin\Debug\netstandard2.0\glr.deps.json
+C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr\bin\Debug\netstandard2.0\glr.dll
+C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr\bin\Debug\netstandard2.0\glr.pdb
+C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr\obj\Debug\netstandard2.0\Views\AddEmployeePage.xaml.g.cs
+C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr\obj\Debug\netstandard2.0\Views\AddFreightBillPage.xaml.g.cs
+C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr\obj\Debug\netstandard2.0\Views\EditEmployeePage.xaml.g.cs
+C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr\obj\Debug\netstandard2.0\Views\RegularEmployeeHomePage.xaml.g.cs
+C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr\obj\Debug\netstandard2.0\Views\ViewEmployeeInfoPage.xaml.g.cs
+C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr\obj\Debug\netstandard2.0\Views\ViewEmployeeWsPage.xaml.g.cs
+C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr\obj\Debug\netstandard2.0\Views\ViewFreightBillsPage.xaml.g.cs
+C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr\obj\Debug\netstandard2.0\glr.AssemblyInfoInputs.cache
+C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr\obj\Debug\netstandard2.0\glr.AssemblyInfo.cs
+C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr\obj\Debug\netstandard2.0\glr.dll
+C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr\obj\Debug\netstandard2.0\glr.pdb

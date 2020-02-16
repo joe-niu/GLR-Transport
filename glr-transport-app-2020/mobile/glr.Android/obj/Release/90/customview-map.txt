@@ -1,0 +1,68 @@
+@string/appbar_scrolling_view_behavior;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\53\jl\res\layout\flyoutcontent.xml
+@string/appbar_scrolling_view_behavior;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\53\jl\res\layout\rootlayout.xml
+@string/appbar_scrolling_view_behavior;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\53\jl\res\layout\shellcontent.xml
+adaptive-icon;obj\Release\90\res\mipmap-anydpi-v26\icon.xml
+adaptive-icon;obj\Release\90\res\mipmap-anydpi-v26\icon_round.xml
+alpha;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\53\jl\res\anim\enterfromleft.xml
+alpha;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\53\jl\res\anim\exittoleft.xml
+android.support.design.widget.AppBarLayout;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\53\jl\res\layout\flyoutcontent.xml
+android.support.design.widget.AppBarLayout;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\53\jl\res\layout\rootlayout.xml
+android.support.design.widget.AppBarLayout;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\53\jl\res\layout\shellcontent.xml
+android.support.design.widget.BottomNavigationView;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\53\jl\res\layout\bottomtablayout.xml
+android.support.design.widget.CoordinatorLayout;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\53\jl\res\layout\flyoutcontent.xml
+android.support.design.widget.CoordinatorLayout;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\53\jl\res\layout\rootlayout.xml
+android.support.design.widget.CoordinatorLayout;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\53\jl\res\layout\shellcontent.xml
+android.support.design.widget.TabLayout;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\53\jl\res\layout\rootlayout.xml
+android.support.design.widget.TabLayout;obj\Release\90\res\layout\tabbar.xml
+android.support.v4.widget.NestedScrollView;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\53\jl\res\layout\rootlayout.xml
+android.support.v4.widget.NestedScrollView;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\53\jl\res\layout\shellcontent.xml
+android.support.v7.widget.RecyclerView;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\53\jl\res\layout\flyoutcontent.xml
+android.support.v7.widget.Toolbar;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\53\jl\res\layout\rootlayout.xml
+android.support.v7.widget.Toolbar;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\53\jl\res\layout\shellcontent.xml
+android.support.v7.widget.Toolbar;obj\Release\90\res\layout\toolbar.xml
+attr;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\11\jl\res\values\attrs.xml
+attr;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\8\jl\res\values\attrs.xml
+background;obj\Release\90\res\mipmap-anydpi-v26\icon.xml
+background;obj\Release\90\res\mipmap-anydpi-v26\icon_round.xml
+cache-path;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\52\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+color;obj\Release\90\res\values\colors.xml
+corners;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\8\jl\res\drawable\styleinfo.xml
+declare-styleable;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\11\jl\res\values\attrs.xml
+declare-styleable;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\8\jl\res\values\attrs.xml
+dimen;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\10\jl\res\values\dimen.xml
+enum;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\11\jl\res\values\attrs.xml
+external-cache-path;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\52\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\52\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+foreground;obj\Release\90\res\mipmap-anydpi-v26\icon.xml
+foreground;obj\Release\90\res\mipmap-anydpi-v26\icon_round.xml
+FrameLayout;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\53\jl\res\layout\bottomtablayout.xml
+ImageView;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\8\jl\res\layout\customizedview1.xml
+item;obj\Release\90\res\values\styles.xml
+LinearLayout;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\53\jl\res\layout\bottomtablayout.xml
+LinearLayout;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\8\jl\res\layout\customizedview1.xml
+paths;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\52\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+RelativeLayout;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\8\jl\res\layout\sfautocomplete_layout.xml
+resources;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\10\jl\res\values\dimen.xml
+resources;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\10\jl\res\values\strings.xml
+resources;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\11\jl\res\values\attrs.xml
+resources;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\11\jl\res\values\strings.xml
+resources;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\8\jl\res\values\attrs.xml
+resources;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\8\jl\res\values\strings.xml
+resources;obj\Release\90\res\values\colors.xml
+resources;obj\Release\90\res\values\styles.xml
+set;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\53\jl\res\anim\enterfromleft.xml
+set;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\53\jl\res\anim\enterfromright.xml
+set;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\53\jl\res\anim\exittoleft.xml
+set;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\53\jl\res\anim\exittoright.xml
+shape;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\8\jl\res\drawable\styleinfo.xml
+string;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\10\jl\res\values\strings.xml
+string;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\11\jl\res\values\strings.xml
+string;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\8\jl\res\values\strings.xml
+stroke;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\8\jl\res\drawable\styleinfo.xml
+style;obj\Release\90\res\values\styles.xml
+TextView;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\8\jl\res\layout\customizedview.xml
+TextView;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\8\jl\res\layout\customizedview1.xml
+translate;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\53\jl\res\anim\enterfromleft.xml
+translate;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\53\jl\res\anim\enterfromright.xml
+translate;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\53\jl\res\anim\exittoleft.xml
+translate;C:\Users\Jose Arbaiza\Desktop\GLR\GLR-Transport\glr-transport-app-2020\mobile\glr.Android\obj\Release\90\lp\53\jl\res\anim\exittoright.xml

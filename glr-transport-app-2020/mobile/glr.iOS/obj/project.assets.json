@@ -1304,10 +1304,12 @@
   },
   "libraries": {
     "Newtonsoft.Json/9.0.1": {
-      "sha512": "2okXpTRwUcgQb06put5LwwCjtgoFo74zkPksjcvOpnIjx7TagGW5IoBCAA4luZx1+tfiIhoNqoiI7Y7zwWGyKA==",
+      "sha512": "U82mHQSKaIk+lpSVCbWYKNavmNH1i5xrExDEquU1i6I5pV6UMOqRnJRSlKO3cMPfcpp0RgDY+8jUXHdQ4IfXvw==",
       "type": "package",
       "path": "newtonsoft.json/9.0.1",
+      "hasTools": true,
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "lib/net20/Newtonsoft.Json.dll",
         "lib/net20/Newtonsoft.Json.xml",
@@ -1329,10 +1331,11 @@
       ]
     },
     "sqlite-net-pcl/1.5.231": {
-      "sha512": "Sy+K+Wm2RZ+4b1uLHsaXvfR92Or71XxPXa2Id6msSOVkZKh+c+PUk/HQOAgxyhm3lhvysL0mK6Gd6mI69NJ9AA==",
+      "sha512": "B9jScvqkishSMkpa9Mc4Q85LTHxRTzcUXZx9EQqgrvdz7MFEDHfpiPcKdjy1qXHdmHttEXfY4h6gu4FlgWP2Sw==",
       "type": "package",
       "path": "sqlite-net-pcl/1.5.231",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "lib/netstandard1.1/SQLite-net.deps.json",
         "lib/netstandard1.1/SQLite-net.dll",
@@ -1344,10 +1347,11 @@
       ]
     },
     "SQLiteNetExtensions/2.1.0": {
-      "sha512": "X1ufKPcyQM7ExzdmdunHHSv+R3Pi7xeT9OG1wrPo6K2IR2Ku+VuEClQ1YlbxwfaKM4+NR4Ut2g0gHbJ5dllleA==",
+      "sha512": "oiyhVxCi7M2nr3tI6h05jdHGT0HKW6GxMNKUiO04zWAxv42MHtX12c4tW67w6VqGwcnXj1bwyTpq9P0W8QoGYQ==",
       "type": "package",
       "path": "sqlitenetextensions/2.1.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "lib/netstandard1.1/SQLiteNetExtensions.dll",
         "lib/netstandard1.1/SQLiteNetExtensions.pdb",
@@ -1372,7 +1376,7 @@
       ]
     },
     "SQLitePCLRaw.bundle_green/1.1.11": {
-      "sha512": "HOD1/Jg9VZtrOyPUCD9reQOXHq4r+fNe24qw5nghuiUcKch+9jePeRpt6MqGGUFhg2KW89KvE/RFlhpbfF8pKA==",
+      "sha512": "Hqp8IF/RLjbypkLm+t+1RqAX8EKuWEkj7wkLXplfENQoPnE127cvTmaDvaQKtt7a5QsD/HNjFDr1z5f9q2wdPg==",
       "type": "package",
       "path": "sqlitepclraw.bundle_green/1.1.11",
       "files": [
@@ -1419,7 +1423,7 @@
       ]
     },
     "SQLitePCLRaw.core/1.1.11": {
-      "sha512": "bWiOso10I1vDuc5rbzT69LQT0+oXfYnoqx8vKJ8zim/CJ4ytSd20QNTE/FE0dvWEgXGnvDp7gGJFu6PeWnhx9g==",
+      "sha512": "QT17CyQAQIbTCu6pW5+uVA8BXqRzquiDI1tr5Un6c1YZcQydPmGPuYYng9xMs2UHUDYHbTu+JDkp55WR+qo9bQ==",
       "type": "package",
       "path": "sqlitepclraw.core/1.1.11",
       "files": [
@@ -1445,10 +1449,11 @@
       ]
     },
     "SQLitePCLRaw.provider.sqlite3.ios_unified/1.1.11": {
-      "sha512": "pgdrdeXCK6l5yLrRK9JjU0a6rVNJN64IKICKtDRI4zXc2Vv/4aBZNJfoivv/AFHaq/KJKR/1vAHI6mJTbeK8GA==",
+      "sha512": "hWk/vgFthsTedjorVFNErd5xk0x0UtlYr/ndmDUYhAcA9Y9g0IJXBMn1Z2QYsLMlvE6Qj5yVvjfkUOARhXezQw==",
       "type": "package",
       "path": "sqlitepclraw.provider.sqlite3.ios_unified/1.1.11",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "lib/Xamarin.iOS10/SQLitePCLRaw.provider.sqlite3.dll",
         "sqlitepclraw.provider.sqlite3.ios_unified.1.1.11.nupkg.sha512",
@@ -1456,10 +1461,11 @@
       ]
     },
     "Syncfusion.Licensing/17.1.0.43": {
-      "sha512": "n9Y1l2Cc+1cPOXulqm9B27m7Zs4BegEZcPPNi/KLTIEHpXj9endwQrXlji7MydCrlxzBxvXWQTRS9utb/IRJvw==",
+      "sha512": "6DoxMJO9RMxpya/CIMlLkeUTew/zJsqIX2C3rcpYONSol/8GhS1zLDRPTzwHHqqhIyNwmcEow+zcHmLqC0d0BQ==",
       "type": "package",
       "path": "syncfusion.licensing/17.1.0.43",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "lib/MonoAndroid10/Syncfusion.Licensing.dll",
         "lib/Xamarin.Mac/Syncfusion.Licensing.dll",
@@ -1482,10 +1488,11 @@
       ]
     },
     "Syncfusion.Xamarin.Core/17.1.0.43": {
-      "sha512": "9UjOj+2aG5qAWrfqP21ICTObjIhxS0C0F1PhCS/NK/koOgfupB6eIgUAthCqASek5hLKIX7IwdMm0qTnO7/Mlw==",
+      "sha512": "bSiFVmpBHqKZ8oZfwG/dSZ4sPRIipUE87X3KEOeHbMtC2Tmsktv5QnE1wOjt9PE7LtipCnnA3iQQNXjuS3PmKw==",
       "type": "package",
       "path": "syncfusion.xamarin.core/17.1.0.43",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "lib/MonoAndroid10/Syncfusion.Core.XForms.Android.dll",
         "lib/MonoAndroid10/Syncfusion.Core.XForms.dll",
@@ -1511,10 +1518,11 @@
       ]
     },
     "Syncfusion.Xamarin.SfAutoComplete/17.1.0.43": {
-      "sha512": "UpUJDC4kZ/iE9iRIeP1lnqFTZvNw2GY1QqRHE2hWTn6PacnnnHsZ+thrKAd8iSgtTePzK6GJsKUL5hTVCCTyGQ==",
+      "sha512": "pPGSqUj7LzTKbCK0ed/VQi1aw9jcy13bn56AtsPyo0CTRTdcbO/w+vff7iJCD0i3SP51LNvqHRVvxuQPwtC5qA==",
       "type": "package",
       "path": "syncfusion.xamarin.sfautocomplete/17.1.0.43",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "lib/MonoAndroid10/Syncfusion.SfAutoComplete.Android.dll",
         "lib/MonoAndroid10/Syncfusion.SfAutoComplete.XForms.Android.dll",
@@ -1558,10 +1566,11 @@
       ]
     },
     "Syncfusion.Xamarin.SfCalendar/17.1.0.43": {
-      "sha512": "Qa5IYTj+snm5WqWoTd71SW+a/4Ssyybab/ZB394GwT+TXGvsyX0DsJz+OVYXkxQyTJoNRR0jHoQ3c9etHHW0PQ==",
+      "sha512": "cWvI96C8vDq+g+Fgqo3iGpiIjTN6Yn99wS7Bp0U/4bvVc8jPm6iM1cQHera9eStGPVp8/tZCnN8OtEvaEy4Stg==",
       "type": "package",
       "path": "syncfusion.xamarin.sfcalendar/17.1.0.43",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "lib/MonoAndroid10/Syncfusion.SfCalendar.XForms.Android.dll",
         "lib/MonoAndroid10/Syncfusion.SfCalendar.XForms.dll",
@@ -1602,10 +1611,11 @@
       ]
     },
     "Syncfusion.Xamarin.SfSchedule/17.1.0.43": {
-      "sha512": "Kkulnq6Gm7mL2TrHRdSMw8fyM0L4phSYEHzVwIFomVcYCKxfB89rSRCXEJi3aCLdcYqscykPl2NWFUf/fj59MA==",
+      "sha512": "uhIZHdLh8ROjhk4FmHFmmITKgQEThZlmj5Bs+fka4Xlv+m0Znp0lgc7lj//fJi9WIWVc2X/OZEUOU8Cn6cI9qw==",
       "type": "package",
       "path": "syncfusion.xamarin.sfschedule/17.1.0.43",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "lib/MonoAndroid10/Syncfusion.SfSchedule.Android.dll",
         "lib/MonoAndroid10/Syncfusion.SfSchedule.XForms.Android.dll",
@@ -1635,10 +1645,11 @@
       ]
     },
     "System.Numerics.Vectors/4.5.0": {
-      "sha512": "nATsBTD2CKr4AYN6eRszhX4sptImWmBJwB/U6XKCWWfnCcrTBw8XSCm3QA9gjppkHTr8OkXUY21MR91D3QZXsw==",
+      "sha512": "QQTlPTl06J/iiDbJCiepZ4H//BVraReU4O4EoRw1U02H5TLUIT7xn3GnDp9AXPSlJUDyFs4uWjWafNX6WrAojQ==",
       "type": "package",
       "path": "system.numerics.vectors/4.5.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -1681,15 +1692,17 @@
       ]
     },
     "Xam.Plugins.Messaging/5.2.0": {
-      "sha512": "usjiQldDRyK28EVW7DJ8gfzuRBFgIJZbWvQMn6H1oGsBU28Et7WirLQLGt4U7H6DyXSCyfLIqZgRlgXbhp5fLg==",
+      "sha512": "oTBg4tZjkkLHuUuXaybC/pwi0SugrJeyZ7Nq60IAxBliO7FMYaPq9mmmPQvCAEwEhtWaZAjbBzwG/I71CcQrmA==",
       "type": "package",
       "path": "xam.plugins.messaging/5.2.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "lib/MonoAndroid10/Plugin.Messaging.Abstractions.dll",
         "lib/MonoAndroid10/Plugin.Messaging.Abstractions.pdb",
         "lib/MonoAndroid10/Plugin.Messaging.Abstractions.xml",
         "lib/MonoAndroid10/Plugin.Messaging.dll",
+        "lib/MonoAndroid10/Plugin.Messaging.dll.mdb",
         "lib/MonoAndroid10/Plugin.Messaging.pdb",
         "lib/MonoAndroid10/Plugin.Messaging.xml",
         "lib/UAP10/Plugin.Messaging.Abstractions.dll",
@@ -1721,7 +1734,7 @@
       ]
     },
     "Xamarin.Essentials/1.1.0": {
-      "sha512": "AGismQb55pszEQ/ZIv9O1U2YyaF2gHdBdAUO79+biHf1s7AL2R++DIvmf7Z+wtfhZrB9wxhXAkOUuYHgpY6oTw==",
+      "sha512": "W0XOt1dNMAE2POcsVotoKDDy5FdAOnR0qULKl6WI4kQEMxQ1sp84DsSU5iacV7oQUMuPhUBAm/3ywks0HO1QrQ==",
       "type": "package",
       "path": "xamarin.essentials/1.1.0",
       "files": [
@@ -1765,10 +1778,11 @@
       ]
     },
     "Xamarin.Forms/3.6.0.344457": {
-      "sha512": "YTPYiRg5q8Q1AgkjX9mx2/0wfCNyoSfztvvWw9HY4qM1lmOgkAxAbbtY8zi3fCPUXhfZrCAgRvJYNS8VM519kQ==",
+      "sha512": "7IffIKgL0fmgbfCLKzXaFKJ7uOueKiz/BIgmAG1Z5WMn+vMKeALe5GgRs3Uddo670VzllIHWkNEZD3lG+e02bw==",
       "type": "package",
       "path": "xamarin.forms/3.6.0.344457",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "build/MonoAndroid10/proguard.cfg",
         "build/Xamarin.Forms.DefaultItems.props",
@@ -1942,32 +1956,39 @@
     ]
   },
   "packageFolders": {
-    "/Users/brendannyambati/.nuget/packages/": {}
+    "C:\\Users\\Jose Arbaiza\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/brendannyambati/Desktop/capstone/mobile/glr.iOS/glr.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Jose Arbaiza\\Desktop\\GLR\\GLR-Transport\\glr-transport-app-2020\\mobile\\glr.iOS\\glr.iOS.csproj",
       "projectName": "glr.iOS",
-      "projectPath": "/Users/brendannyambati/Desktop/capstone/mobile/glr.iOS/glr.iOS.csproj",
-      "packagesPath": "/Users/brendannyambati/.nuget/packages/",
-      "outputPath": "/Users/brendannyambati/Desktop/capstone/mobile/glr.iOS/obj/",
+      "projectPath": "C:\\Users\\Jose Arbaiza\\Desktop\\GLR\\GLR-Transport\\glr-transport-app-2020\\mobile\\glr.iOS\\glr.iOS.csproj",
+      "packagesPath": "C:\\Users\\Jose Arbaiza\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jose Arbaiza\\Desktop\\GLR\\GLR-Transport\\glr-transport-app-2020\\mobile\\glr.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "/Users/brendannyambati/.config/NuGet/NuGet.Config"
+        "C:\\Users\\Jose Arbaiza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/brendannyambati/Desktop/capstone/mobile/glr/glr.csproj": {
-              "projectPath": "/Users/brendannyambati/Desktop/capstone/mobile/glr/glr.csproj"
+            "C:\\Users\\Jose Arbaiza\\Desktop\\GLR\\GLR-Transport\\glr-transport-app-2020\\mobile\\glr\\glr.csproj": {
+              "projectPath": "C:\\Users\\Jose Arbaiza\\Desktop\\GLR\\GLR-Transport\\glr-transport-app-2020\\mobile\\glr\\glr.csproj"
             }
           }
         }

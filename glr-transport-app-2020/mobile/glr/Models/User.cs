@@ -6,6 +6,7 @@ namespace glr.Models
 {
     public class User
     {
+        /*  SET UP FOR FUTURE CLOUD SYNC
         string id;
         string typeofemployee;
         string password;
@@ -70,7 +71,7 @@ namespace glr.Models
             set { loggedin = value; }
         }
         //[JsonProperty(PropertyName = "isafieldempty")]
-        /* old data structure
+        /* old data structure */
         [PrimaryKey, AutoIncrement]
         public int ID { get; set; }
         public int TypeOfEmployee { get; set; }

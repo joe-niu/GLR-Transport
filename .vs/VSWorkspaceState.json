@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\glr-transport-app-2020",
-    "\\glr-transport-app-2020\\mobile"
+    "\\glr-transport-app-2020\\mobile",
+    "\\Web",
+    "\\Web\\GlrTransport_Web_Interface"
   ],
-  "SelectedNode": "\\glr-transport-app-2020\\mobile\\glr.sln",
-  "PreviewInSolutionExplorer": false
+  "SelectedNode": "\\Web\\GlrTransport_Web_Interface\\GlrTransport_Web_Interface.csproj",
+  "PreviewInSolutionExplorer": true
 }
